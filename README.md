@@ -1,38 +1,41 @@
 # Maven-Toy-Analysis-Dashboard
 ## 📝 Project Description
-This Power BI project help leadership team to track key business metrics and market trends.
+This Power BI project enables the leadership team at Maven Toy Store (Mexico) to track key business metrics and analyze market trends.
 
 ---
 
 ## 📌 Objective
-Developed an interactive Power BI dashboard for Maven Toy Store (Mexico) to help leadership track key business metrics and market trends.
+Develop an interactive dashboard in Power BI that provides actionable insights into sales performance, product trends, and seasonal patterns.
 
 ## 🎯 Purpose
-Created dynamic KPIs and Visualizations using DAX functions to measure sales performance and product category trends.
+Build dynamic KPIs and visualizations using DAX functions to evaluate category-wise sales and support strategic decision-making.
 
 ## ✅ Outcome
-Identified Toys ($5.1M) as the top-selling category, followed by Arts & Crafts ($2.7M); observed significant revenue spikes in Jan 2023 and Mar 2023 ($0.88M), with a dip in Aug 2022 ($0.49M).
+- Identified Toys ($5.1M) as the top-selling category, followed by Arts & Crafts ($2.7M).
+- Uncovered significant revenue spikes in January and March 2023 ($0.88M).
+- Detected a revenue dip in August 2022 ($0.49M), followed by a steady recovery.
 
 ---
 
 ## 🧰 Tools Used  
-- Power Bi, Power Query
-- DAX, Slicers  
-- Custom time hierarchies for detailed trend analysis
+- Power BI, Power Query Editor
+- DAX, Slicers, Custom Time Hierarchies
+- Data Modeling for building relationships across multiple tables
+
 
 ---
 
-## 📂 Project Files
-| File Name | Description |
-|-----------|-------------|
-| `https://github.com/iNish27/Maven-Toy/blob/main/Maven%20Toys%20Analysis.pbix` | Final Power BI Dashboard |
-| `https://github.com/iNish27/Maven-Toy/blob/main/calendar.csv` | Sample Maven Toy data used for analysis |
-| `https://github.com/iNish27/Maven-Toy/blob/main/data_dictionary.csv` | Sample Maven Toy data used for analysis |
-| `https://github.com/iNish27/Maven-Toy/blob/main/inventory.csv` | Sample Maven Toy data used for analysis |
-|`https://github.com/iNish27/Maven-Toy/blob/main/products.csv` | Sample Maven Toy data used for analysis |
-|`https://github.com/iNish27/Maven-Toy/blob/main/sales.csv` | Sample Maven Toy data used for analysis |
-|`https://github.com/iNish27/Maven-Toy/blob/main/stores.csv` | Sample Maven Toy data used for analysis |
-|`https://github.com/iNish27/Maven-Toy/blob/main/Screenshot%202025-04-30%20121558.png` | Dashboard Screenshot|
+| File Name                                                                                                     | Description              |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [`Maven_Toys_Analysis.pbix`](https://github.com/iNish27/Maven-Toy/blob/main/Maven%20Toys%20Analysis.pbix)     | Final Power BI Dashboard |
+| [`calendar.csv`](https://github.com/iNish27/Maven-Toy/blob/main/calendar.csv)                                 | Calendar data            |
+| [`data_dictionary.csv`](https://github.com/iNish27/Maven-Toy/blob/main/data_dictionary.csv)                   | Dataset definitions      |
+| [`inventory.csv`](https://github.com/iNish27/Maven-Toy/blob/main/inventory.csv)                               | Inventory data           |
+| [`products.csv`](https://github.com/iNish27/Maven-Toy/blob/main/products.csv)                                 | Product listings         |
+| [`sales.csv`](https://github.com/iNish27/Maven-Toy/blob/main/sales.csv)                                       | Sales transactions       |
+| [`stores.csv`](https://github.com/iNish27/Maven-Toy/blob/main/stores.csv)                                     | Store details            |
+| [`Dashboard Screenshot`](https://github.com/iNish27/Maven-Toy/blob/main/Screenshot%202025-04-30%20121558.png) | Dashboard preview image  |
+
 
 ---
 
