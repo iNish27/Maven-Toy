@@ -37,7 +37,7 @@ Identified Toys ($5.1M) as the top-selling category, followed by Arts & Crafts (
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard](https://github.com/iNish27/Maven-Toy/blob/main/Screenshot%202025-04-30%20114900.png)
+![Dashboard](https://github.com/iNish27/Maven-Toy/blob/main/Screenshot%202025-04-30%20121558.png)
 
 ---
 
